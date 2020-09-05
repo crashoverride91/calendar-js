@@ -10,6 +10,16 @@ html{
     font-size: 62.5%;
 }
 
+.title{
+
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(1, 1, 44);
+    color:rgb(108, 122, 243);
+    padding-top:25px;
+    font-size: 65px;
+}
+
 .container{
 
     width:100%;
